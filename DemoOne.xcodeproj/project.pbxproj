@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					2D411D311DA51D9200DEBAD6 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = AMD9S2E9AC;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,9 +259,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AMD9S2E9AC;
 				INFOPLIST_FILE = DemoOne/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ElsaLee.DemoOne;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ElsaLee.DemoOnePeterPan1005;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -270,9 +272,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AMD9S2E9AC;
 				INFOPLIST_FILE = DemoOne/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ElsaLee.DemoOne;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ElsaLee.DemoOnePeterPan1005;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
