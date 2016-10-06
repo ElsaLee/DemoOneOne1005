@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2D411D321DA51D9200DEBAD6 /* DemoOne.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoOne.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D411D321DA51D9200DEBAD6 /* DemoOneOne1005.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoOneOne1005.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D411D351DA51D9200DEBAD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2D411D371DA51D9200DEBAD6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2D411D3A1DA51D9200DEBAD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		2D411D331DA51D9200DEBAD6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2D411D321DA51D9200DEBAD6 /* DemoOne.app */,
+				2D411D321DA51D9200DEBAD6 /* DemoOneOne1005.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2D411D311DA51D9200DEBAD6 /* DemoOne */ = {
+		2D411D311DA51D9200DEBAD6 /* DemoOneOne1005 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D411D441DA51D9200DEBAD6 /* Build configuration list for PBXNativeTarget "DemoOne" */;
+			buildConfigurationList = 2D411D441DA51D9200DEBAD6 /* Build configuration list for PBXNativeTarget "DemoOneOne1005" */;
 			buildPhases = (
 				2D411D2E1DA51D9200DEBAD6 /* Sources */,
 				2D411D2F1DA51D9200DEBAD6 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = DemoOne;
+			name = DemoOneOne1005;
 			productName = DemoOne;
-			productReference = 2D411D321DA51D9200DEBAD6 /* DemoOne.app */;
+			productReference = 2D411D321DA51D9200DEBAD6 /* DemoOneOne1005.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2D411D2D1DA51D9200DEBAD6 /* Build configuration list for PBXProject "DemoOne" */;
+			buildConfigurationList = 2D411D2D1DA51D9200DEBAD6 /* Build configuration list for PBXProject "DemoOne1005" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2D411D311DA51D9200DEBAD6 /* DemoOne */,
+				2D411D311DA51D9200DEBAD6 /* DemoOneOne1005 */,
 			);
 		};
 /* End PBXProject section */
@@ -262,7 +262,7 @@
 				DEVELOPMENT_TEAM = AMD9S2E9AC;
 				INFOPLIST_FILE = DemoOne/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ElsaLee.DemoOnePeterPan1005;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ElsaLee.DemoOnePan1005;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -275,7 +275,7 @@
 				DEVELOPMENT_TEAM = AMD9S2E9AC;
 				INFOPLIST_FILE = DemoOne/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ElsaLee.DemoOnePeterPan1005;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ElsaLee.DemoOnePan1005;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -284,7 +284,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2D411D2D1DA51D9200DEBAD6 /* Build configuration list for PBXProject "DemoOne" */ = {
+		2D411D2D1DA51D9200DEBAD6 /* Build configuration list for PBXProject "DemoOne1005" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D411D421DA51D9200DEBAD6 /* Debug */,
@@ -293,7 +293,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D411D441DA51D9200DEBAD6 /* Build configuration list for PBXNativeTarget "DemoOne" */ = {
+		2D411D441DA51D9200DEBAD6 /* Build configuration list for PBXNativeTarget "DemoOneOne1005" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D411D451DA51D9200DEBAD6 /* Debug */,
